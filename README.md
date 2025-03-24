@@ -21,9 +21,9 @@
    ``` bash
    npm install
    ```
-3. Tạo tệp code.txt và thêm mã giới thiệu của bạn :
+3. Tạo tệp codeflow3.txt và thêm mã giới thiệu của bạn :
    ``` bash
-   nano code.txt
+   nano codeflow3.txt
    ```
 4. Tạo tệp proxies.txt và thêm proxy của bạn :
    ``` bash
